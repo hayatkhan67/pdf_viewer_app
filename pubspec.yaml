@@ -44,7 +44,7 @@ dependencies:
   curved_labeled_navigation_bar:
     git:
       url: "https://github.com/Eren-Jaeeger/curved_labeled_navigation_bar"
-  shared_preferences: ^2.5.2
+  shared_preferences: ^2.3.2
 
 dev_dependencies:
   flutter_test:
